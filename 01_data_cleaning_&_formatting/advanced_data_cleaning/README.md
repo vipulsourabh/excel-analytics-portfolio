@@ -77,6 +77,8 @@ The project follows a structured data preparation workflow:
 3. Data Validation
 4. Analysis-Ready Dataset
 
+## 🔄 Project Workflow
+
 ![Project Workflow](03_assets/01_project_workflow.png)
 
 ---
