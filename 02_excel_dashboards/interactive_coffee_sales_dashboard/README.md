@@ -1,6 +1,6 @@
-# ☕ Interactive Coffee Sales Dashboard in Microsoft Excel
+#  Interactive Coffee Sales Dashboard in Microsoft Excel
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates the complete process of transforming raw coffee sales data into an interactive Excel dashboard. The project involves enriching transactional data using lookup functions, creating calculated fields, building pivot tables, and designing a dynamic dashboard for business reporting.
 
@@ -8,7 +8,7 @@ The dashboard enables users to analyze coffee sales performance by product, cust
 
 ---
 
-# 🎯 Business Objective
+#  Business Objective
 
 The objective of this project is to build an interactive reporting solution that helps answer business questions such as:
 
@@ -20,7 +20,7 @@ The objective of this project is to build an interactive reporting solution that
 
 ---
 
-# 🛠 Tools Used
+#  Tools Used
 
 - Microsoft Excel
 - XLOOKUP
@@ -33,7 +33,7 @@ The objective of this project is to build an interactive reporting solution that
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```
 Interactive_coffee_sales_dashboard
@@ -47,7 +47,7 @@ Interactive_coffee_sales_dashboard
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 The project follows a structured analytics workflow:
 
@@ -64,7 +64,7 @@ The project follows a structured analytics workflow:
 
 ---
 
-# 🧹 Data Preparation
+#  Data Preparation
 
 The raw sales dataset was enriched and transformed before analysis.
 
@@ -97,7 +97,7 @@ Using **INDEX + MATCH**, product information was retrieved:
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 The interactive dashboard includes:
 
@@ -115,13 +115,13 @@ Interactive filters include:
 
 ---
 
-# 📈 Dashboard Preview
+#  Dashboard Preview
 
 ![Interactive Dashboard](03_assets/05_interactive_dash_prev.png)
 
 ---
 
-# 💡 Skills Demonstrated
+#  Skills Demonstrated
 
 - Data Cleaning
 - Data Enrichment
@@ -134,15 +134,6 @@ Interactive filters include:
 - Interactive Dashboard Design
 - Business Analysis
 - Data Visualization
-
----
-
-# 📁 Project Contents
-
-- Raw Dataset
-- Interactive Excel Dashboard
-- Project Assets
-- Project Documentation
 
 ---
 
