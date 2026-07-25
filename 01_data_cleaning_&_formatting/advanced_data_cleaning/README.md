@@ -149,31 +149,19 @@ The comparison below highlights the transformation from raw, inconsistent data i
 
 #  Skills Demonstrated
 
-- Data Cleaning
+- Data Cleaning & Preparation
 - Data Transformation
-- Data Formatting
-- Dynamic Arrays
-- Lookup Functions
-- Text Manipulation
-- Date & Time Extraction
-- Error Handling
-- Dataset Standardization
-- Excel Tables
 - Data Validation
+- Data Standardization
 - Advanced Excel Functions
-
+- Dynamic Array Functions
+- Lookup & Text Functions
+- Date & Time Processing
+- Error Handling
+- Analysis-Ready Data Preparation
 ---
 
-#  Project Contents
 
-- Raw Dataset
-- Cleaned Dataset
-- Excel Workbook
-- Project Assets
-- README Documentation
-
----
-
-# 🚀 Learning Outcome
+#  Learning Outcome
 
 This project demonstrates practical techniques for cleaning, transforming, and validating messy datasets using modern Microsoft Excel functions. By combining dynamic arrays, lookup functions, text manipulation, and logical functions, the workflow automates repetitive data preparation tasks and produces a reliable, analysis-ready dataset suitable for reporting and business analysis.
