@@ -1,4 +1,4 @@
-# 📊 Excel Analytics Portfolio
+#  Excel Analytics Portfolio
 
 A collection of Microsoft Excel projects focused on transforming raw data into meaningful business insights through data cleaning, analysis, and interactive dashboards.
 
@@ -6,7 +6,7 @@ This repository demonstrates practical Excel techniques commonly used in data an
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 excel-analytics-portfolio
@@ -17,7 +17,7 @@ excel-analytics-portfolio
 
 ---
 
-# 🧹 Data Cleaning & Formatting
+#  Data Cleaning & Formatting
 
 Projects focused on preparing raw datasets for analysis by applying modern Excel functions and data preparation techniques.
 
@@ -34,7 +34,7 @@ Projects focused on preparing raw datasets for analysis by applying modern Excel
 
 ---
 
-# 📈 Excel Dashboards
+#  Excel Dashboards
 
 Projects focused on building interactive dashboards for business reporting and decision-making.
 
@@ -50,7 +50,7 @@ Projects focused on building interactive dashboards for business reporting and d
 
 ---
 
-# 🛠 Technologies
+#  Technologies
 
 - Microsoft Excel
 - Advanced Excel Formulas
@@ -62,13 +62,13 @@ Projects focused on building interactive dashboards for business reporting and d
 
 ---
 
-# 🎯 Portfolio Goal
+#  Portfolio Goal
 
 This repository is part of my Data Analytics portfolio and showcases practical Excel solutions for data preparation, business reporting, and dashboard development. It complements my work in SQL, Power BI, Looker Studio, BigQuery, and Google Analytics 4.
 
 ---
 
-# 🚀 Current Projects
+#  Current Projects
 
 | Project | Status |
 |---------|:------:|
