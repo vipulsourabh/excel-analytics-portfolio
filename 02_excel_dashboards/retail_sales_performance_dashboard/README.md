@@ -1,6 +1,6 @@
-# 📈 Retail Sales Performance Dashboard in Microsoft Excel
+#  Retail Sales Performance Dashboard in Microsoft Excel
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates the development of an interactive Retail Sales Performance Dashboard in Microsoft Excel using an existing retail sales dataset. The project focuses on analyzing business performance through Pivot Tables, Pivot Charts, KPI reporting, and interactive dashboard design.
 
@@ -10,7 +10,7 @@ The dashboard enables users to analyze sales performance across retailers, bever
 
 ---
 
-# 🎯 Business Objective
+#  Business Objective
 
 The objective of this project is to build an interactive reporting solution that helps answer business questions such as:
 
@@ -22,7 +22,7 @@ The objective of this project is to build an interactive reporting solution that
 
 ---
 
-# 🛠 Tools Used
+#  Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -33,7 +33,7 @@ The objective of this project is to build an interactive reporting solution that
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```
 retail_sales_performance_dashboard
@@ -47,7 +47,7 @@ retail_sales_performance_dashboard
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 The project follows a structured business reporting workflow:
 
@@ -67,7 +67,7 @@ The project follows a structured business reporting workflow:
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 The interactive dashboard includes:
 
@@ -98,13 +98,13 @@ The interactive dashboard includes:
 
 ---
 
-# 📷 Dashboard Preview
+#  Dashboard Preview
 
 ![Interactive Dashboard](03_assets/03_interactive_dash_prev.png)
 
 ---
 
-# 💡 Skills Demonstrated
+#  Skills Demonstrated
 
 - Business Performance Analysis
 - KPI Reporting
@@ -118,6 +118,6 @@ The interactive dashboard includes:
 
 ---
 
-# 🚀 Learning Outcome
+#  Learning Outcome
 
 This project demonstrates how Microsoft Excel can be used to create interactive business reporting dashboards from existing datasets. By leveraging Pivot Tables, Pivot Charts, KPI reporting, and dashboard design principles, the project delivers actionable insights that support business performance monitoring and informed decision-making.
