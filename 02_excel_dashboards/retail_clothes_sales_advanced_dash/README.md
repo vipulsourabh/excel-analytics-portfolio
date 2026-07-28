@@ -2,24 +2,24 @@
 
 ## Project Overview
 
-This project demonstrates the development of an interactive Retail Clothing Sales Analytics Dashboard in Microsoft Excel using an existing retail clothing sales dataset. The project focuses on analyzing business performance through KPI reporting, Pivot Tables, Pivot Charts, and interactive dashboard design.
+An interactive Microsoft Excel dashboard that analyzes retail clothing sales using KPI reporting, Pivot Tables, Pivot Charts, and slicers. The dashboard answers key business questions related to sales trends, customer behavior, product performance, shipping efficiency, and customer satisfaction.
 
-The dashboard answers key business questions by analyzing sales trends, customer preferences, product performance, shipping efficiency, and customer satisfaction to support data-driven business decisions.
-
-> **Note:** The dataset was pre-cleaned. This project focuses on data analysis and dashboard development rather than data preparation.
+> **Note:** The dataset was pre-cleaned. This project focuses on data analysis and dashboard development.
 
 ---
 
 # Business Objective
 
-The objective of this project is to build an interactive reporting solution that helps answer business questions such as:
+Build an interactive dashboard to answer key business questions, including:
 
-- What are the overall sales and profit performance metrics?
-- Which products generate the highest sales?
-- How do customer demographics influence purchasing behavior?
-- Which shipping methods and delivery times perform best?
+- What is the sales trend over the last 13 weeks?
+- How do customers prefer to purchase products?
+- How many items do customers typically buy?
+- Which products are the most popular?
+- What is the overall customer gender split?
+- Where are customers located?
+- How long does it take to ship customer orders?
 - How satisfied are customers with their purchases?
-- How do sales vary across different regions?
 
 ---
 
@@ -30,7 +30,6 @@ The objective of this project is to build an interactive reporting solution that
 - Pivot Charts
 - KPI Reporting
 - Slicers
-- Dashboard Design
 
 ---
 
@@ -38,7 +37,6 @@ The objective of this project is to build an interactive reporting solution that
 
 ```
 retail_clothes_sales_advanced_dash
-
 │
 ├── 01_dataset
 ├── 02_excel_files
@@ -50,7 +48,7 @@ retail_clothes_sales_advanced_dash
 
 # Project Workflow
 
-The project follows a structured business reporting workflow:
+The project follows a structured analytics workflow:
 
 - Retail Clothing Sales Dataset
 - Data Analysis
@@ -58,10 +56,12 @@ The project follows a structured business reporting workflow:
   - Pivot Charts
   - KPI Calculations
 - Business Insights
-  - Sales Trends
-  - Customer Preferences
-  - Popular Products
-  - Gender Analysis
+  - 13-Week Sales Trend
+  - Customer Purchase Preferences
+  - Order Quantity Analysis
+  - Product Popularity
+  - Gender Distribution
+  - Customer Location Analysis
   - Shipping Performance
   - Customer Satisfaction
 - Executive Analytics Dashboard
@@ -72,38 +72,29 @@ The project follows a structured business reporting workflow:
 
 # Dashboard Features
 
-The interactive dashboard includes:
-
 ### KPI Summary
 
 - Total Sales
-- Total Profit
-- Profit Margin
+- Total Orders
 - Average Order Value
+- Customer Satisfaction Score
 
-### Sales & Product Analysis
+### Business Insights
 
-- Monthly Sales Trends
-- Top Selling Products
-- Category Performance
-
-### Customer Insights
-
-- Customer Gender Analysis
-- Customer Satisfaction
-- Purchasing Preferences
-
-### Operational Analysis
-
-- Shipping Method Performance
-- Delivery Time Analysis
-- Regional Sales Distribution
+- Sales Trend (Last 13 Weeks)
+- Customer Purchase Preferences
+- Order Quantity Analysis
+- Product Popularity
+- Customer Gender Distribution
+- Customer Location Analysis
+- Shipping Time Analysis
+- Customer Satisfaction Analysis
 
 ### Interactive Filters
 
 - Product Category
-- Region
 - Customer Gender
+- Region
 
 ---
 
@@ -129,4 +120,4 @@ The interactive dashboard includes:
 
 # Learning Outcome
 
-This project demonstrates how Microsoft Excel can be used to build advanced analytical dashboards that answer key business questions through interactive reporting. By combining KPI reporting, Pivot Tables, Pivot Charts, and dashboard design principles, the project delivers actionable insights into sales performance, customer behavior, and operational efficiency.
+Built an executive dashboard that converts retail sales data into actionable business insights using Microsoft Excel. The project demonstrates dashboard development, KPI reporting, business analysis, and data visualization for decision-making.
